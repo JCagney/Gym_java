@@ -1,0 +1,166 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>John Cagney</name>
+      <email>john@bnm.ie</email>
+      <address>484 Cockpit Lane</address>
+      <gender>M</gender>
+      <height>1.8</height>
+      <startWeight>80.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessmentMap>
+        <entry>
+          <string>20/06/05</string>
+          <Assessment>
+            <weight>85.0</weight>
+            <thigh>45.0</thigh>
+            <waist>45.0</waist>
+            <comment>Great stuff</comment>
+            <trainer>
+              <name>Mick Cagney</name>
+              <email>mick@cagney.com</email>
+              <address>San Diego</address>
+              <gender>M</gender>
+              <speciality> Be</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>20/06/04</string>
+          <Assessment>
+            <weight>88.0</weight>
+            <thigh>55.0</thigh>
+            <waist>44.0</waist>
+            <comment>well, i mean it was ok</comment>
+            <trainer>
+              <name>Mick Cagney</name>
+              <email>mick@cagney.com</email>
+              <address>San Diego</address>
+              <gender>M</gender>
+              <speciality> Be</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>20/06/02</string>
+          <Assessment>
+            <weight>33.0</weight>
+            <thigh>33.0</thigh>
+            <waist>33.0</waist>
+            <comment>Great</comment>
+            <trainer>
+              <name>Mick Cagney</name>
+              <email>mick@cagney.com</email>
+              <address>San Diego</address>
+              <gender>M</gender>
+              <speciality> Be</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+      </assessmentMap>
+    </Member>
+    <Member>
+      <name>Frank The Tank</name>
+      <email>frank@thetank.com</email>
+      <address>The Battlefield</address>
+      <gender>M</gender>
+      <height>1.9</height>
+      <startWeight>100.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessmentMap/>
+    </Member>
+    <Member>
+      <name>Winnie the Pooh</name>
+      <email>winnie@thepooh.com</email>
+      <address>a Tree</address>
+      <gender>M</gender>
+      <height>1.2</height>
+      <startWeight>90.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessmentMap>
+        <entry>
+          <string>20/06/04</string>
+          <Assessment>
+            <weight>34.0</weight>
+            <thigh>34.0</thigh>
+            <waist>34.0</waist>
+            <comment>less honey pls </comment>
+            <trainer>
+              <name>Mick Cagney</name>
+              <email>mick@cagney.com</email>
+              <address>San Diego</address>
+              <gender>M</gender>
+              <speciality> Be</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+      </assessmentMap>
+    </Member>
+    <Member>
+      <name>Long John Silver</name>
+      <email>long@johnsilver.com</email>
+      <address>Treasure Island</address>
+      <gender>M</gender>
+      <height>2.0</height>
+      <startWeight>70.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+      <assessmentMap/>
+    </Member>
+    <Member>
+      <name>Ned Kelly</name>
+      <email>ned@kelly.com</email>
+      <address>Melbourne</address>
+      <gender>M</gender>
+      <height>2.0</height>
+      <startWeight>67.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessmentMap/>
+    </Member>
+    <Member>
+      <name>Peppa Pig</name>
+      <email>peppe@pig.com</email>
+      <address>Top of the Hill</address>
+      <gender>F</gender>
+      <height>1.2</height>
+      <startWeight>50.0</startWeight>
+      <chosenPackage>Package 3</chosenPackage>
+      <assessmentMap/>
+    </Member>
+    <Member>
+      <name>Sonya O&apos;Sullivan</name>
+      <email>sonya@osullivan.com</email>
+      <address>Kerry</address>
+      <gender>F</gender>
+      <height>2.0</height>
+      <startWeight>65.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessmentMap/>
+    </Member>
+    <Member>
+      <name>Road Runner</name>
+      <email>road@runner.com</email>
+      <address>the Road</address>
+      <gender>M</gender>
+      <height>1.5</height>
+      <startWeight>40.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessmentMap/>
+    </Member>
+  </list>
+  <list>
+    <Trainer>
+      <name>Mick Cagney</name>
+      <email>mick@cagney.com</email>
+      <address>San Diego</address>
+      <gender>M</gender>
+      <speciality> Be</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Mike Tyson</name>
+      <email>mike@tyson.com</email>
+      <address>USA</address>
+      <gender>M</gender>
+      <speciality>Boxing</speciality>
+    </Trainer>
+  </list>
+</object-stream>
